@@ -5,7 +5,7 @@ import tienda.modelo.TipoCliente;
 import tienda.modelo.Cliente;
 import tienda.modelo.Empleado;
 import tienda.modelo.Bodega;
-
+import tienda.modelo.Inventario;
 public class Main {
     public static void main(String[] args) {
         Producto p = new Producto("P1", "Leche", "1 litro", "Dos pinos", 12.5);
@@ -27,5 +27,10 @@ public class Main {
         System.out.println(b);
         System.out.println("Encargado: " + b.getEncargado().getNombre());
         System.out.println("Capacidad: " + b.getCapacidad());
+        Inventario inv = new Inventario("I1", b);
+        inv.agregar(p, 10);
+        inv.descontar(p, 4);
+        System.out.println(inv);
+        System.out.println("Stock de leche: " + inv.stockDe(p));
     }
 }

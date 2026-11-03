@@ -1,5 +1,5 @@
 package tienda.modelo;
 
-public enum TipoCliente{
+public enum TipoCliente {
     REGULAR,VIP
 }
