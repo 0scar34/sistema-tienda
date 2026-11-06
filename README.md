@@ -35,8 +35,8 @@ docs/                    -> manual técnico (con diagrama UML) y manual de usuar
 - [Manual de usuario](docs/manual_usuario.md)
 
 ## Autores
-Oscar chavez
-Daniel Pirir
-Alan Fuentes
+Oscar chavez,
+Daniel Pirir,
+Alan Fuentes,
 Algoritmos-2026
 
