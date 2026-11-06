@@ -30,9 +30,6 @@ datos/                   -> archivos .txt generados automáticamente
 docs/                    -> manual técnico (con diagrama UML) y manual de usuario
 ```
 
-## Documentación
-- [Manual técnico y diagrama UML](docs/manual_tecnico.md)
-- [Manual de usuario](docs/manual_usuario.md)
 
 ## Autores
 Oscar chavez,
