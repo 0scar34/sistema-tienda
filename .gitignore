@@ -1,0 +1,7 @@
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+# Descomente la siguiente línea si NO quiere subir los datos de prueba
+# datos/
