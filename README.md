@@ -34,5 +34,9 @@ docs/                    -> manual técnico (con diagrama UML) y manual de usuar
 - [Manual técnico y diagrama UML](docs/manual_tecnico.md)
 - [Manual de usuario](docs/manual_usuario.md)
 
-## Autor
-Nombre del estudiante - Curso - Año
+## Autores
+Oscar chavez
+Daniel Pirir
+Alan Fuentes
+Algoritmos-2026
+
